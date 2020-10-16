@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <h1>Justo Bermudez</h1>
-  </body>
-</html>
+esta es una pagina personal donde se publicaran los proyectoscreados para
+trabajar 
